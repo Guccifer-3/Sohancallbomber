@@ -248,7 +248,7 @@ def banner():
       ██    ██   ██ ██  ██ ██ ▒ ██ ██  ██         
       ██    ██████▒ ▒████▒ ██   ██ █████▒         
       ▒▒    ▒▒▒▒▒▒   ▒▒▒▒  ▒▒   ▒▒ ▒▒▒▒▒          
-                                         """
+       Created By Sohan Rajput                               """
     print(random.choice(colors)+logo+W)
     print("\n")
 
