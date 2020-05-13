@@ -904,7 +904,8 @@ if nm == 0:
     print("             Delay               : ", dl)
     print("==================================================================")
     print("              Use this for fun, not for revenge !!                ")
-    print("              This Bomber Was Created By SpeedX !!                ")
+    print("              This Bomber Was Created By SpeedX !!    
+          ")     MADE BY SOHAN RAJPUT SUBSCRIBE ON YOUTUBE GUCCIFER 3.0
     print("==================================================================")
     print(W)
     input('\n\nPress CTRL+Z To STOP Bomber... \nPress Enter To Start Bomber...\n')
